@@ -1,1 +1,1 @@
-# mindtrading
+# mindtrading app
